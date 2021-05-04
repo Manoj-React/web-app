@@ -1,0 +1,15 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+section {
+   background: linear-gradient(to bottom,magenta,cyan);
+   height: 100vh;
+}
+
+div {
+    height: 50px;
+}
+
+
